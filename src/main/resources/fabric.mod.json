@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "paperdupe",
+  "version": "${version}",
+  "name": "PaperDupe",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/paperdupe/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.h1ggsk.paperdupe.client.PaperdupeClient"
+    ],
+    "main": [
+      "com.h1ggsk.paperdupe.Paperdupe"
+    ]
+  },
+  "mixins": [
+    "paperdupe.mixins.json",
+    {
+      "config": "paperdupe.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
