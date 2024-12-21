@@ -1,3 +1,5 @@
+# This mod is now deprecated, please use [BaQDupe](https://github.com/H1ggsK/BaQDupe)!
+---
 # PaperDupe
 This is a dupe for Paper servers running 1.20.5 through 1.21.1#35 (patched in #36). #35 was part of 1.21.1 beta, so likely no server will run it.
 
