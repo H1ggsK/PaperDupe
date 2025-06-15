@@ -7,7 +7,7 @@ This is a dupe for Paper servers running 1.20.5 through 1.21.1#35 (patched in #3
 Start by running `/dupehelp`, and then following the instructions run `/dupe`. If it fails, it may be patched. DM me `@h1ggsk` on Discord if you have a problem, and I will get back to you as soon as possible.
 
 # Origin
-The original author is unknown, but I created this as a fork of Benefit by `@leftydupes`.
+The original dupe was found by Thorium, but I created this as a fork of Benefit by `@leftydupes`.
 
 # FAQ
 - Is it a virus?
